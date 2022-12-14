@@ -1,0 +1,8 @@
+Pre-requistes:
+Azure DevOps organization
+Add Azure pipelines Terraform tasks - https://marketplace.visualstudio.com/items?itemName=charleszipp.azure-pipelines-tasks-terraform
+Create AWS service connection in Azure DevOps for Terraform to use
+Create service connection for connecting to GitHub
+Create S3 bucket for storing TF state
+Create dynamo DB table for providing lock capability
+I have provided my public repo as an example which you can use.
