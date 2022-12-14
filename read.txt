@@ -17,4 +17,4 @@ steps:
     commandOptions: '-reconfigure'
     backendServiceAWS: 'AWS_SVC_Conn'
     backendAWSBucketName: 'mydev1-tf-state-bucket'
-    backendAWSKey: main
+    backendAWSKey: main 
